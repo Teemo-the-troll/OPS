@@ -1,0 +1,19 @@
+please input number, or any non numerical character to exit
+please input number, or any non numerical character to exit
+please input number, or any non numerical character to exit
+please input number, or any non numerical character to exit
+please input number, or any non numerical character to exit
+please input number, or any non numerical character to exit
+please input number, or any non numerical character to exit
+please input number, or any non numerical character to exit
+please input number, or any non numerical character to exit
+please input number, or any non numerical character to exit
+please input number, or any non numerical character to exit
+please input number, or any non numerical character to exit
+please input number, or any non numerical character to exit
+please input number, or any non numerical character to exit
+inputed numbers are: 1597546, 1636, 16, 46767, 3, 654196, 46, 4, 4, 446546, 1945647, 4998, 79526343, 
+sum of the numbers is: 84223752
+approximate average of the numbers is: 6478750
+highest number is: 79526343
+lowest number is: 3
